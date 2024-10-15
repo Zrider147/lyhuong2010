@@ -1,8 +1,0 @@
-Dependencies:
-
-```javascript
-{
-  "ajv": "^8.12.0"
-}
-```
-

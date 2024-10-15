@@ -1,9 +1,0 @@
-{
-  "extends": "./tsconfig-base.json",
-  "compilerOptions": {
-    "outDir": "./.d.tmp",
-    "types": ["vite/client", "node"],
-    /** Remove DOM libs */
-    "lib": ["ES2017"]
-  }
-}
