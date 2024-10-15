@@ -80,7 +80,6 @@ export class MainGame extends vbGame {
             // init default style and landscape first
             this.setLocale(API.locale.value);
             this.addScenes(...createAllScenes());
-            this.gui.bindDataEvents(this.data);
 
             this.addState(new SStart());
             this.addState(new SPlayRun());
@@ -174,7 +173,6 @@ export class MainGame extends vbGame {
             const soundGroup = this.soundManager.groups['sound'];
             musicGroup.muted = newMusicMuted;
             soundGroup.muted = newSoundMuted;
-            this.gui.setBtnSoundTex(!newMusicMuted || !newSoundMuted);
         }, { immediate: true });
         // watch(API.isLeftHanded, () => {
         //     this.useCurrentViewStlye(); // TODO

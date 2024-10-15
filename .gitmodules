@@ -1,6 +1,6 @@
 [submodule "src/vbWebEngine"]
 	path = src/vbWebEngine
-	url = https://github.com/GlisGames/vbWebEngine.git
+	# url = https://github.com/GlisGames/vbWebEngine.git
 	branch = v7.2
 [submodule "src/vbWebConnector"]
 	path = src/vbWebConnector

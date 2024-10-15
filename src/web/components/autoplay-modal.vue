@@ -31,7 +31,7 @@
 </template>
 
 <script setup lang="ts">
-import { autoPlayGame } from '@g/states/SStart';
+// import { autoPlayGame } from '@g/states/SStart';
 import { computed, ref } from 'vue';
 
 const enable = ref(false)
@@ -72,7 +72,7 @@ const setAutoplay = (play: any) => {
 const toggleStopBonus = () => {
     stopBonus.value = !stopBonus.value;
     pgame.sound.Click.play()
-    pgame.gui.sidePanel.stopBonus = stopBonus.value;
+    // pgame.gui.sidePanel.stopBonus = stopBonus.value;
 }
 const update = computed(() => {
     return {
@@ -91,7 +91,6 @@ const confirmAutoplay = () => {
         if (pgame.data.realCredits >= pgame.data.totalBet) {
             pgame.gui.disableBetButtons()
         }
-        autoPlayGame(pgame.currState)
     }
 }
 const checkRequirementField = () => {
