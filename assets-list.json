@@ -1,0 +1,51 @@
+{
+  "img": {
+    "fileSize": 0
+  },
+  "img_atlas": {
+    "background": "img/background.json",
+    "Colors": "img/Colors.json",
+    "Rubicon": "img/Rubicon.json",
+    "fileSize": 29731550
+  },
+  "img_atlas_multipacks": {},
+  "spine_json": {
+    "spTitle": "spine/spTitle/sp_title.json",
+    "sp_dice": "spine/sp_dice/dice.json",
+    "fileSize": 1741033
+  },
+  "style": {
+    "DEV": {
+      "landscape": "style/landscape.json",
+      "portrait": "style/portrait.json",
+      "fileSize": 1180
+    },
+    "PROD": {
+      "styleBundle": "json/view-style.json",
+      "fileSize": 1180
+    }
+  },
+  "lang": {
+    "DEV": {
+      "en": "lang/en/game.json",
+      "it": "lang/it/game.json",
+      "fileSize": 1350
+    },
+    "PROD": {
+      "langBundle": "json/lang-game.json",
+      "fileSize": 1350
+    }
+  },
+  "sound": {
+    "background": "sound/background.mp3",
+    "buttonclick": "sound/buttonclick.mp3",
+    "coinincrement": "sound/coinincrement.mp3",
+    "CoinIncrementStop": "sound/CoinIncrementStop.mp3",
+    "hint": "sound/hint.mp3",
+    "fileSize": 5532887
+  },
+  "custom": {
+    "fileSize": 0
+  },
+  "fileSize": 37008000
+}

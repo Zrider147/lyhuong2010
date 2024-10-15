@@ -1,0 +1,293 @@
+
+sp_title.png
+size: 1641,481
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+title/text/t_02
+  rotate: true
+  xy: 122, 4
+  size: 18, 48
+  orig: 20, 52
+  offset: 1, 2
+  index: -1
+title/text/t_03
+  rotate: true
+  xy: 2, 4
+  size: 39, 60
+  orig: 41, 63
+  offset: 1, 1
+  index: -1
+title/text/t_04
+  rotate: true
+  xy: 1130, 18
+  size: 43, 74
+  orig: 45, 77
+  offset: 1, 2
+  index: -1
+title/text/t_05
+  rotate: false
+  xy: 1582, 216
+  size: 53, 91
+  orig: 56, 93
+  offset: 1, 1
+  index: -1
+title/text/t_06
+  rotate: false
+  xy: 1503, 63
+  size: 64, 91
+  orig: 73, 93
+  offset: 2, 1
+  index: -1
+title/text/t_07
+  rotate: false
+  xy: 1507, 326
+  size: 64, 91
+  orig: 87, 93
+  offset: 5, 1
+  index: -1
+title/text/t_08
+  rotate: false
+  xy: 1177, 63
+  size: 80, 91
+  orig: 83, 93
+  offset: 1, 1
+  index: -1
+title/text/t_09
+  rotate: false
+  xy: 1368, 245
+  size: 73, 91
+  orig: 80, 93
+  offset: 6, 1
+  index: -1
+title/text/t_10
+  rotate: false
+  xy: 1094, 63
+  size: 81, 91
+  orig: 85, 93
+  offset: 2, 1
+  index: -1
+title/text/t_11
+  rotate: false
+  xy: 901, 63
+  size: 91, 91
+  orig: 93, 93
+  offset: 1, 1
+  index: -1
+title/text/t_12
+  rotate: false
+  xy: 1259, 66
+  size: 80, 88
+  orig: 82, 91
+  offset: 1, 1
+  index: -1
+title/text/t_13
+  rotate: false
+  xy: 1569, 49
+  size: 62, 83
+  orig: 66, 86
+  offset: 2, 1
+  index: -1
+title/text/t_14
+  rotate: false
+  xy: 1569, 134
+  size: 70, 80
+  orig: 74, 83
+  offset: 2, 1
+  index: -1
+title/text/t_15
+  rotate: true
+  xy: 1368, 338
+  size: 85, 78
+  orig: 87, 80
+  offset: 1, 1
+  index: -1
+title/text/t_16
+  rotate: true
+  xy: 1341, 67
+  size: 87, 79
+  orig: 90, 81
+  offset: 2, 1
+  index: -1
+title/text/t_17
+  rotate: false
+  xy: 994, 75
+  size: 98, 79
+  orig: 101, 81
+  offset: 2, 1
+  index: -1
+title/text/t_18
+  rotate: true
+  xy: 1259, 13
+  size: 51, 79
+  orig: 57, 81
+  offset: 5, 1
+  index: -1
+title/text/t_19
+  rotate: true
+  xy: 901, 14
+  size: 47, 79
+  orig: 50, 81
+  offset: 1, 1
+  index: -1
+title/text/t_20
+  rotate: true
+  xy: 1341, 12
+  size: 53, 79
+  orig: 56, 81
+  offset: 2, 1
+  index: -1
+title/text/t_21
+  rotate: false
+  xy: 1573, 397
+  size: 61, 79
+  orig: 64, 81
+  offset: 2, 1
+  index: -1
+title/text/t_22
+  rotate: false
+  xy: 1422, 75
+  size: 79, 79
+  orig: 82, 81
+  offset: 2, 1
+  index: -1
+title/text/t_23
+  rotate: true
+  xy: 1368, 156
+  size: 87, 79
+  orig: 90, 81
+  offset: 2, 1
+  index: -1
+title/text/t_24
+  rotate: false
+  xy: 1443, 245
+  size: 78, 79
+  orig: 82, 81
+  offset: 2, 1
+  index: -1
+title/text/t_25
+  rotate: false
+  xy: 1573, 317
+  size: 62, 78
+  orig: 65, 80
+  offset: 2, 1
+  index: -1
+title/text/t_26
+  rotate: true
+  xy: 994, 15
+  size: 58, 74
+  orig: 61, 77
+  offset: 2, 1
+  index: -1
+title/text/t_27
+  rotate: true
+  xy: 1422, 16
+  size: 57, 70
+  orig: 59, 74
+  offset: 1, 2
+  index: -1
+title/text/t_28
+  rotate: true
+  xy: 1523, 216
+  size: 99, 57
+  orig: 161, 69
+  offset: 2, 2
+  index: -1
+title/text/t_29
+  rotate: true
+  xy: 1309, 156
+  size: 122, 57
+  orig: 125, 59
+  offset: 2, 1
+  index: -1
+title/text/t_30
+  rotate: true
+  xy: 1309, 280
+  size: 122, 57
+  orig: 124, 59
+  offset: 1, 1
+  index: -1
+title/text/t_31
+  rotate: true
+  xy: 1448, 326
+  size: 107, 57
+  orig: 123, 59
+  offset: 15, 1
+  index: -1
+title/text/t_32
+  rotate: false
+  xy: 1449, 156
+  size: 105, 58
+  orig: 108, 60
+  offset: 2, 1
+  index: -1
+title/text/t_33
+  rotate: true
+  xy: 1070, 5
+  size: 56, 58
+  orig: 106, 60
+  offset: 49, 1
+  index: -1
+title/text/t_34
+  rotate: true
+  xy: 1494, 8
+  size: 53, 59
+  orig: 55, 61
+  offset: 1, 1
+  index: -1
+title/text/t_35
+  rotate: false
+  xy: 1206, 2
+  size: 50, 59
+  orig: 52, 61
+  offset: 1, 1
+  index: -1
+title/text/t_36
+  rotate: true
+  xy: 1555, 4
+  size: 43, 59
+  orig: 45, 61
+  offset: 1, 1
+  index: -1
+title/text/t_37
+  rotate: true
+  xy: 64, 3
+  size: 40, 56
+  orig: 43, 59
+  offset: 2, 1
+  index: -1
+title/text/t_38
+  rotate: true
+  xy: 122, 24
+  size: 19, 50
+  orig: 22, 53
+  offset: 2, 1
+  index: -1
+title/title_dice
+  rotate: true
+  xy: 768, 24
+  size: 130, 131
+  orig: 130, 132
+  offset: 0, 0
+  index: -1
+title/title_flare
+  rotate: false
+  xy: 798, 156
+  size: 509, 323
+  orig: 549, 326
+  offset: 20, 1
+  index: -1
+title/title_frame
+  rotate: false
+  xy: 2, 252
+  size: 794, 227
+  orig: 798, 230
+  offset: 2, 2
+  index: -1
+title/title_text2
+  rotate: false
+  xy: 2, 45
+  size: 764, 205
+  orig: 771, 210
+  offset: 3, 4
+  index: -1

@@ -1,0 +1,46 @@
+{
+  "en": {
+    "name": "English",
+    "defaultFont": "Inter",
+    "dict": {
+      "win": "WIN",
+      "credit": "CREDIT",
+      "bet": "BET",
+      "max-bet": "MAX BET",
+      "menu": "MENU",
+      "autoplay": "AUTOPLAY",
+      "no-fund": "Insufficient funds.",
+      "play": "PLAY",
+      "reset": "RESET",
+      "noBetAndColor": "Please choose a bet and color",
+      "noBet": "Please select a bet value",
+      "noColor": "Please select a color",
+      "playerWin": "You Won",
+      "onSendFailed": "On Send Fail",
+      "cannotRetry": "Cannot retry start game request any more.",
+      "expireSession": "Session expired, please restart the game and try again.",
+      "waitResponse": "Waiting for server's response...",
+      "requestTimeout": "Request Timeout"
+    },
+    "styles": {}
+  },
+  "it": {
+    "name": "Italian",
+    "defaultFont": "Inter",
+    "dict": {
+      "win": "VINCITA",
+      "credit": "CREDITO",
+      "bet": "BET",
+      "max-bet": "MAX PUNTATA",
+      "menu": "MENU GIOCO",
+      "autoplay": "AUTOPLAY",
+      "no-fund": "Non hai abbastanza credito",
+      "onSendFailed": "Trasmissione dati fallita",
+      "cannotRetry": "Non è possibile avviare questa partita.",
+      "expireSession": "Sessione terminata, prego chiudere e riaprire il gioco per continuare a giocare.",
+      "waitResponse": "Attesa della risposta dal server...",
+      "requestTimeout": "Risposta dal server non ricevuta"
+    },
+    "styles": {}
+  }
+}
