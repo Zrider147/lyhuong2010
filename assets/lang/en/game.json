@@ -1,0 +1,27 @@
+{
+  "name": "English",
+  "defaultFont": "Inter",
+  "dict": {
+    "win": "WIN",
+    "credit": "CREDIT",
+    "bet": "BET",
+    "max-bet": "MAX BET",
+    "menu": "MENU",
+    "autoplay": "AUTOPLAY",
+    "no-fund": "Insufficient funds.",
+    "play": "PLAY",
+    "reset": "RESET",
+
+    "noBetAndColor": "Please choose a bet and color",
+    "noBet": "Please select a bet value",
+    "noColor": "Please select a color",
+    "playerWin": "You Won",
+
+    "onSendFailed": "On Send Fail",
+    "cannotRetry": "Cannot retry start game request any more.",
+    "expireSession": "Session expired, please restart the game and try again.",
+    "waitResponse": "Waiting for server's response...",
+    "requestTimeout": "Request Timeout"
+  },
+  "styles": {}
+}

@@ -1,0 +1,31 @@
+{
+  "Resolution": [1280, 720],
+  "root": {
+    "GUI": {}
+  },
+
+  "GUI": {
+    "bottomPanel": { "xy": [640, 720] },
+    "topPanel": { "xy": [640, 0] },
+    "middlePanel": { "xy": [640, 360] }
+  },
+
+  "BottomPanel": {
+    "cnvBet": { "xy": [-340, -80], "s": 0.8 }
+  },
+
+  "TopPanel": {
+    "cnvCredit": { "xy": [480, 80] },
+    "spGameTitle": { "xy": [-480, 80], "s": 0.4 }
+  },
+
+  "MiddlePanel": {
+    "cnvColorsBoard": { "xy": [310, 0], "s": 0.9 },
+    "cnvDice": { "xy": [-360, 40] },
+    "cnvAuto": { "xy": [-340, 190], "s": 1 }
+  },
+
+  "FRONT-LAYER": {
+    "pop-up-hint": { "xy": [360, 450] }
+  }
+}

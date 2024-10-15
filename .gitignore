@@ -1,0 +1,25 @@
+# Directories
+**/.d.*/
+**/node_modules/
+dist/
+dist-ssr/
+coverage/
+/cypress/videos/
+/cypress/screenshots/
+
+# Files
+*.tmp
+*.timestamp*
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.DS_Store
+*.local
+*.local.js
+
+# Assets Management
+# See backup/.gitignore and game/.gitignore

@@ -1,0 +1,9 @@
+# backup folder keeps some original assets before they are edited and packed to be used for game.
+# Because it's supposed to not be changed frequently, we don't need to track most of them.
+# Ignore everything
+# *
+
+# except...
+# !.gitignore
+# !*.json
+# !*.tps

@@ -1,0 +1,20 @@
+{
+    "bet": {
+        "type": "list",
+        "list": [50,100,150,200,250,300,350,400,450,500],
+        "default": 1
+    },
+    "traits": [
+        "metamorphic"
+    ],
+    "mathConfig": {
+        "api": {
+            "bet": "bets",
+            "step": "steps",
+            "start": "startup-data"
+        },
+        "endpoint": "/game-math",
+        "protocol": "http"
+    },
+    "gameUiOptions": {}
+}

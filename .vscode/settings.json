@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/node_modules/": true,
+        "dist/": false
+    },
+    "search.useIgnoreFiles": true,
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "typescript.preferences.importModuleSpecifier": "shortest"
+}
