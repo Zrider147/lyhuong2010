@@ -1,53 +1,5 @@
 {
   "frames": {
-    "Clouds Bottom": {
-      "frame": {
-        "x": 3588,
-        "y": 5166,
-        "w": 2280,
-        "h": 410
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 2280,
-        "h": 410
-      },
-      "sourceSize": {
-        "w": 2280,
-        "h": 410
-      },
-      "pivot": {
-        "x": 0.5,
-        "y": 0.5
-      }
-    },
-    "circle": {
-      "frame": {
-        "x": 5588,
-        "y": 1861,
-        "w": 960,
-        "h": 963
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 525,
-        "y": 517,
-        "w": 960,
-        "h": 963
-      },
-      "sourceSize": {
-        "w": 2000,
-        "h": 2000
-      },
-      "pivot": {
-        "x": 0.5,
-        "y": 0.5
-      }
-    },
     "cloud_heart": {
       "frame": {
         "x": 3588,
@@ -176,7 +128,7 @@
     "format": "RGBA8888",
     "size": {
       "w": 6589,
-      "h": 5577
+      "h": 5378
     },
     "scale": 1
   }

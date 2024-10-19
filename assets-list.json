@@ -5,7 +5,7 @@
   },
   "img_atlas": {
     "lyhuong": "img/lyhuong.json",
-    "fileSize": 17500399
+    "fileSize": 16116555
   },
   "img_atlas_multipacks": {},
   "spine_json": {
@@ -17,11 +17,11 @@
     "DEV": {
       "landscape": "style/landscape.json",
       "portrait": "style/portrait.json",
-      "fileSize": 226
+      "fileSize": 261
     },
     "PROD": {
       "styleBundle": "json/view-style.json",
-      "fileSize": 226
+      "fileSize": 261
     }
   },
   "lang": {
@@ -46,5 +46,5 @@
   "custom": {
     "fileSize": 0
   },
-  "fileSize": 24782523
+  "fileSize": 23398714
 }
