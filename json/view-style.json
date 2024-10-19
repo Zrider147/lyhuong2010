@@ -1,1 +1,1 @@
-{"landscape":{"Resolution":[1280,720],"root":{"GUI":{}},"GUI":{}},"portrait":{"Resolution":[720,1280],"root":{"GUI":{}},"GUI":{"page1":{"xy":[360,640]},"page2":{"xy":[360,640]},"page3":{"xy":[360,640]}}}}
+{"landscape":{"Resolution":[1280,720],"root":{"GUI":{}},"GUI":{"page1":{"xy":[640,360],"s":0.6},"page2":{"xy":[640,360],"s":0.6},"page3":{"xy":[640,360],"s":0.6}}},"portrait":{"Resolution":[720,1280],"root":{"GUI":{}},"GUI":{"page1":{"xy":[360,640],"s":1},"page2":{"xy":[360,640],"s":1},"page3":{"xy":[360,640],"s":1}}}}
