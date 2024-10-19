@@ -1,12 +1,11 @@
 {
   "img": {
-    "background": "img/background.jpg",
-    "fileSize": 7947709
+    "mainBackground": "img/mainBackground.jpg",
+    "fileSize": 6628
   },
   "img_atlas": {
-    "Colors": "img/Colors.json",
-    "Rubicon": "img/Rubicon.json",
-    "fileSize": 8309206
+    "lyhuong": "img/lyhuong.json",
+    "fileSize": 16116555
   },
   "img_atlas_multipacks": {},
   "spine_json": {
@@ -18,22 +17,22 @@
     "DEV": {
       "landscape": "style/landscape.json",
       "portrait": "style/portrait.json",
-      "fileSize": 2028
+      "fileSize": 261
     },
     "PROD": {
       "styleBundle": "json/view-style.json",
-      "fileSize": 2028
+      "fileSize": 261
     }
   },
   "lang": {
     "DEV": {
       "en": "lang/en/game.json",
       "it": "lang/it/game.json",
-      "fileSize": 1185
+      "fileSize": 1350
     },
     "PROD": {
       "langBundle": "json/lang-game.json",
-      "fileSize": 1185
+      "fileSize": 1350
     }
   },
   "sound": {
@@ -47,5 +46,5 @@
   "custom": {
     "fileSize": 0
   },
-  "fileSize": 23534048
+  "fileSize": 23398714
 }
