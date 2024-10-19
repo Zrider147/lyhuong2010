@@ -1,12 +1,11 @@
 {
   "img": {
-    "fileSize": 0
+    "mainBackground": "img/mainBackground.jpg",
+    "fileSize": 6628
   },
   "img_atlas": {
-    "background": "img/background.json",
-    "Colors": "img/Colors.json",
-    "Rubicon": "img/Rubicon.json",
-    "fileSize": 29731550
+    "lyhuong": "img/lyhuong.json",
+    "fileSize": 17500399
   },
   "img_atlas_multipacks": {},
   "spine_json": {
@@ -18,11 +17,11 @@
     "DEV": {
       "landscape": "style/landscape.json",
       "portrait": "style/portrait.json",
-      "fileSize": 1180
+      "fileSize": 226
     },
     "PROD": {
       "styleBundle": "json/view-style.json",
-      "fileSize": 1180
+      "fileSize": 226
     }
   },
   "lang": {
@@ -47,5 +46,5 @@
   "custom": {
     "fileSize": 0
   },
-  "fileSize": 37008000
+  "fileSize": 24782523
 }

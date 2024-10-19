@@ -1,0 +1,183 @@
+{
+  "frames": {
+    "Clouds Bottom": {
+      "frame": {
+        "x": 3588,
+        "y": 5166,
+        "w": 2280,
+        "h": 410
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 2280,
+        "h": 410
+      },
+      "sourceSize": {
+        "w": 2280,
+        "h": 410
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "circlle": {
+      "frame": {
+        "x": 5588,
+        "y": 1861,
+        "w": 960,
+        "h": 963
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 525,
+        "y": 517,
+        "w": 960,
+        "h": 963
+      },
+      "sourceSize": {
+        "w": 2000,
+        "h": 2000
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "cloud_heart": {
+      "frame": {
+        "x": 3588,
+        "y": 1,
+        "w": 3000,
+        "h": 1857
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 143,
+        "w": 3000,
+        "h": 1857
+      },
+      "sourceSize": {
+        "w": 3000,
+        "h": 2000
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift": {
+      "frame": {
+        "x": 5022,
+        "y": 3996,
+        "w": 1105,
+        "h": 1167
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 441,
+        "y": 94,
+        "w": 1105,
+        "h": 1167
+      },
+      "sourceSize": {
+        "w": 2000,
+        "h": 1333
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gift_open": {
+      "frame": {
+        "x": 3588,
+        "y": 3996,
+        "w": 1431,
+        "h": 1034
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 301,
+        "y": 223,
+        "w": 1431,
+        "h": 1034
+      },
+      "sourceSize": {
+        "w": 2000,
+        "h": 1514
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "page2_cover": {
+      "frame": {
+        "x": 3588,
+        "y": 1861,
+        "w": 1997,
+        "h": 2132
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 351,
+        "w": 1997,
+        "h": 2132
+      },
+      "sourceSize": {
+        "w": 2000,
+        "h": 2996
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "page_1": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 3584,
+        "h": 5376
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 3584,
+        "h": 5376
+      },
+      "sourceSize": {
+        "w": 3584,
+        "h": 5376
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "https://neeeoo.github.io/funkin-packer/",
+    "version": "0.1.3",
+    "image": "lyhuong.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 6589,
+      "h": 5577
+    },
+    "scale": 1
+  }
+}
